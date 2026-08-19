@@ -1,0 +1,12 @@
+services:
+  frontend:
+    build:
+      context: .
+      dockerfile: Dockerfile
+
+    container_name: leetcode-frontend
+
+    ports:
+      - "80:5173"
+
+    restart: unless-stopped
