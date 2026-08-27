@@ -2,6 +2,9 @@
 
 A modern frontend for an online coding and DSA problem-solving platform built with **React** and **Vite**.
 
+Website URL : http://16.171.24.209
+Admin User: email:amarprakash@gmail.com, password:**********
+
 The application allows users to register, log in, browse coding problems, and access individual problem pages. It also includes an **admin dashboard** for managing problems and related content.
 
 ## 🚀 Features
