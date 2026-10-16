@@ -14,7 +14,7 @@ The application allows users to register, log in, browse coding problems, and ac
 </p>
 
 <p align="center">
-  <img src="./screenshots/signup_page" width="48%" alt="Code Editor" />
+  <img src="./screenshots/signup_page.png" width="48%" alt="Code Editor" />
   <img src="./screenshots/admin_panel.png" width="48%" alt="Submissions Page" />
 </p>
 
