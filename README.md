@@ -8,14 +8,15 @@ Admin User: email:amarprakash@gmail.com, password:**********
 The application allows users to register, log in, browse coding problems, and access individual problem pages. It also includes an **admin dashboard** for managing problems and related content.
 
 📸 Screenshots
-Signuppage
-screenshots/signup_page.png
-🏠 Homepage
-screenshots/home.png
-💻 Problems Page
-screenshots/problem_page.png
-AdminPanel
-screenshots/admin_panel.png
+<p align="center">
+  <img src="./screenshots/home.png" width="48%" alt="LeetCode Clone Homepage" />
+  <img src="./screenshots/problem_page.png" width="48%" alt="Problems Page" />
+</p>
+
+<p align="center">
+  <img src="./screenshots/signup_page" width="48%" alt="Code Editor" />
+  <img src="./screenshots/admin_panel.png" width="48%" alt="Submissions Page" />
+</p>
 
 
 
