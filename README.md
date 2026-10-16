@@ -7,6 +7,20 @@ Admin User: email:amarprakash@gmail.com, password:**********
 
 The application allows users to register, log in, browse coding problems, and access individual problem pages. It also includes an **admin dashboard** for managing problems and related content.
 
+📸 Screenshots
+Signuppage
+screenshots/signup_page.png
+🏠 Homepage
+screenshots/home.png
+💻 Problems Page
+screenshots/problem_page.png
+AdminPanel
+screenshots/admin_panel.png
+
+
+
+⚡ Code Editor
+
 ## 🚀 Features
 
 ### 👤 User Features
